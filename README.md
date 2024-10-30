@@ -1,8 +1,7 @@
-# React + Vite
+La Pokédex es una página dedicada a la serie animada Pokémon, en la que asumes el rol de un entrenador y accedes a una sección que contiene a todos los Pokémon existentes. En esta sección, puedes explorar los detalles de cada uno de ellos.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Se desarrollo con:
+React + Vite
+JavaScript
+Tailwind
+Axios
